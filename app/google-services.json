@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932983157868",
+    "project_id": "gofood24-8a8fb",
+    "storage_bucket": "gofood24-8a8fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932983157868:android:c65c7382a8a7b177265449",
+        "android_client_info": {
+          "package_name": "id.application.gofood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6G8nMNmTMVq7yr3n_oihst_hxWbxj7Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
